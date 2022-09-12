@@ -10,3 +10,6 @@
 [submodule "Narayan-MTP-2022"]
 	path = Narayan-MTP-2022
 	url = https://github.com/usatpath01/Narayan-MTP-2022.git
+[submodule "Vamshi-MTP-2022"]
+	path = Vamshi-MTP-2022
+	url = https://github.com/usatpath01/Vamshi-MTP-2022.git
