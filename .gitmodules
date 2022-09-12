@@ -7,3 +7,6 @@
 [submodule "Rajat-BTP-2022"]
 	path = Rajat-BTP-2022
 	url = https://github.com/usatpath01/Rajat-BTP-2022.git
+[submodule "Narayan-MTP-2022"]
+	path = Narayan-MTP-2022
+	url = https://github.com/usatpath01/Narayan-MTP-2022.git
