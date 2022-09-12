@@ -13,3 +13,6 @@
 [submodule "Vamshi-MTP-2022"]
 	path = Vamshi-MTP-2022
 	url = https://github.com/usatpath01/Vamshi-MTP-2022.git
+[submodule "Utkalika-Project"]
+	path = Utkalika-Project
+	url = https://github.com/usatpath01/Utkalika-Project.git
