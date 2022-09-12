@@ -1,3 +1,6 @@
 [submodule "Ishaan-MTP-2022"]
 	path = Ishaan-MTP-2022
 	url = https://github.com/usatpath01/Ishaan-MTP-2022.git
+[submodule "Nandini-MTP-2022"]
+	path = Nandini-MTP-2022
+	url = https://github.com/usatpath01/Nandini-MTP-2022.git
