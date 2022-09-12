@@ -4,3 +4,6 @@
 [submodule "Nandini-MTP-2022"]
 	path = Nandini-MTP-2022
 	url = https://github.com/usatpath01/Nandini-MTP-2022.git
+[submodule "Rajat-BTP-2022"]
+	path = Rajat-BTP-2022
+	url = https://github.com/usatpath01/Rajat-BTP-2022.git
